@@ -1,0 +1,36 @@
+#contenedor{
+    display: flex;
+	border:1px solid #0a0a0a;
+	margin:0 auto;
+	width: 500px;
+	height: 500px;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+#rojo{
+    color: white;
+    align-content: center;
+    text-align: center;
+	height: 33.33%;
+	width: 33.33%;
+	background-color: red;
+}
+
+#azul{
+    color: white;
+    align-content: center;
+    text-align: center;
+	height: 33.33%;
+	width: 33.33%;
+	background-color: blue;
+}
+
+#verde{
+    color: white;
+    align-content: center;
+    text-align: center;
+	height: 33.33%;
+	width: 33.33%;
+	background-color: green;
+}
